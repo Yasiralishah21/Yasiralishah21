@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Yasiralishah21
-- 🌱 I’m currently learning html,css,dsa,mysql,javascript,react.js
+- 🌱 I’m currently learning javascript es-6, React.js, Nextjs, Rest API's. 
 - 📫 How to reach me yasiralishah021@gmail.com
