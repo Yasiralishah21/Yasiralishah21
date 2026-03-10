@@ -13,7 +13,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASIRALISHAH21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YASIRALISHAH21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=yasiralishah21&theme=radical" alt="GitHub Streak" width="250"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=YASIRALISHAH21&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <!-- Small badges -->
+  <img src="https://img.shields.io/github/followers/yasiralishah21?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/yasiralishah21?style=flat-square&color=yellow" alt="Stars Received"/>
+</p>
